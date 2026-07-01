@@ -91,9 +91,8 @@ Requires Power BI Desktop (free download from Microsoft). Open the `.pbix` file 
 
 ## Author
 
-**Boldwin Mweemba**
-Data Analyst ·  Lusaka, Zambia
--MSc mathematical sciences 
--GitHub: [BoldwinMax](https://github.com/BoldwinMax) ·
--LinkedIn: [linkedin.com/in/boldwin-mweemba](https://linkedin.com/in/boldwin-mweemba)
--July 2026
+**Boldwin Mweemba**  Data Analyst · Lusaka, Zambia
+MSc Mathematical Sciences 
+GitHub: BoldwinMax
+LinkedIn: linkedin.com/in/boldwin-mweemba
+July 2026
