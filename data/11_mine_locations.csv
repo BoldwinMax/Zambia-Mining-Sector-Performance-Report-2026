@@ -1,0 +1,18 @@
+mine,operator,company_code,province,district,latitude,longitude,mineral,type,status
+Nchanga Copper Mine (KCM),Konkola Copper Mines Plc,KCM,Copperbelt,Chingola,-12.52,27.86,Copper,Underground/Open Pit,Active
+Konkola Copper Mine (KCM),Konkola Copper Mines Plc,KCM,Copperbelt,Chililabombwe,-12.36,27.83,Copper,Underground,Active
+Mopani Copper Mines — Nkana,Mopani Copper Mines Plc,Mopani C.M,Copperbelt,Kitwe,-12.82,28.21,Copper/Cobalt,Underground/Smelter,Active
+Mopani Copper Mines — Mufulira,Mopani Copper Mines Plc,Mopani C.M,Copperbelt,Mufulira,-12.55,28.24,Copper,Underground,Active
+CNMC Luanshya Copper Mines,CNMC Luanshya Copper Mines Plc,CNMC,Copperbelt,Luanshya,-13.14,28.41,Copper,Underground,Active
+Chambishi Copper Smelter,Chambishi Metals Plc,C.C.S,Copperbelt,Chambishi,-12.65,28.04,Copper/Cobalt,Smelter,Active
+Chibuluma Mines,Chibuluma Mines Plc,Chibuluma,Copperbelt,Kalulushi,-12.84,28.09,Copper,Underground,Active
+Sino Metals Leach Zambia,Sino-Metals Leach Zambia Limited,Sino-Metals Leach Zambia Limited,Copperbelt,Kitwe,-12.79,28.18,Copper,SX-EW,Active
+NFC Africa Mining (NFCA),NFC Africa Mining Plc,NFCA,Copperbelt,Chambishi,-12.63,28.02,Copper,Underground,Active
+Lubambe Copper Mine,Lubambe Copper Mine Limited,L.C.M,Copperbelt,Chililabombwe,-12.41,27.98,Copper,Underground,Active
+Kansanshi Mine,Kansanshi Mining Plc (FQM),Kansanshi,North-Western,Solwezi,-12.08,26.4,Copper/Gold,Open Pit/Underground,Active
+Lumwana Mine,Lumwana Mining Co. Limited (Barrick),Lumwana Mining,North-Western,Solwezi,-12.49,25.9,Copper,Open Pit,Active
+Kalumbila (Trident) Mine,FQM Trident Limited,FQM. T,North-Western,Kalumbila,-11.96,25.35,Copper/Nickel,Open Pit,Active
+Mingomba Mining,Mingomba Mining Limited,Mimbula Minerals,North-Western,Chililabombwe/Solwezi,-12.4,27.95,Copper,Exploration/Development,Development
+Maamba Collieries,Maamba Energies Limited,Maamba Coll,Southern,Sinazongwe,-17.35,27.15,Coal,Open Pit,Active
+Chilanga Cement,Chilanga Cement PLC,Chilanga Cement,Lusaka,Chilanga,-15.55,28.25,Limestone/Cement,Quarry,Active
+Kagem Emerald Mine,Kagem Mining Limited,KAGEM,Copperbelt,Lufwanyama,-13.17,27.58,Emeralds,Open Pit,Active

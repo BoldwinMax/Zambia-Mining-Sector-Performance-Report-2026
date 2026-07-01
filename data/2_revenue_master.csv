@@ -1,0 +1,218 @@
+date,year,frequency,tax_type,amount_zmw_billions
+2009-01-01,2009,annual,Total Extractives Revenue,2.57
+2010-01-01,2010,annual,Total Extractives Revenue,3.79
+2012-01-01,2012,annual,Total Extractives Revenue,8.02
+2013-01-01,2013,annual,Total Extractives Revenue,8.2
+2011-01-01,2011,annual,Total Extractives Revenue,8.67
+2015-01-01,2015,annual,Total Extractives Revenue,9.07
+2014-01-01,2014,annual,Total Extractives Revenue,9.95
+2016-01-01,2016,annual,Total Extractives Revenue,10.43
+2017-01-01,2017,annual,Total Extractives Revenue,13.27
+2018-01-01,2018,annual,Total Extractives Revenue,17.98
+2019-01-01,2019,annual,Total Extractives Revenue,18.36
+2020-01-01,2020,annual,Total Extractives Revenue,25.85
+2023-01-01,2023,annual,Total Extractives Revenue,33.1
+2024-01-01,2024,annual,Total Extractives Revenue,38.1
+2021-01-01,2021,annual,Total Extractives Revenue,38.98
+2022-01-01,2022,annual,Total Extractives Revenue,44.4
+2021-01-01,2021,annual,Income Tax,7.652309
+2021-01-01,2021,annual,Local Excise -> Cement,0.008772
+2021-01-01,2021,annual,Local Excise -> Electrical Energy,0.025441
+2021-01-01,2021,annual,Mineral Royalty,1.76289
+2021-01-01,2021,annual,Pay As You Earn,0.695092
+2021-01-01,2021,annual,Property Transfer Tax,0.00012
+2021-01-01,2021,annual,Tourism Levy,1.3e-05
+2021-01-01,2021,annual,Turnover Tax,7.3e-05
+2021-01-01,2021,annual,Value Added Tax,0.075862
+2021-01-01,2021,annual,Withholding Tax,0.143036
+2021-01-01,2021,annual,Withholding on Value Added Tax,3.463999
+2022-01-01,2022,annual,Income Tax,6.534765
+2022-01-01,2022,annual,Local Excise -> Cement,0.046606
+2022-01-01,2022,annual,Local Excise -> Electrical Energy,0.086326
+2022-01-01,2022,annual,Local Excise ->Coal,0.023952
+2022-01-01,2022,annual,Mineral Royalty,10.456519
+2022-01-01,2022,annual,PRESUMPTIVE TAX,1e-06
+2022-01-01,2022,annual,Pay As You Earn,2.991461
+2022-01-01,2022,annual,Pay As You Earn PAYE REFUND,1.9e-05
+2022-01-01,2022,annual,Property Transfer Tax,0.029379
+2022-01-01,2022,annual,Tourism Levy,9.6e-05
+2022-01-01,2022,annual,Turnover Tax,0.000448
+2022-01-01,2022,annual,Value Added Tax,0.479524
+2022-01-01,2022,annual,Withholding Tax,0.619214
+2022-01-01,2022,annual,Withholding on Value Added Tax,7.992344
+2023-01-01,2023,annual,Artisanal Small Scale Mining,0.001019
+2023-01-01,2023,annual,Income Tax,3.321895
+2023-01-01,2023,annual,Local Excise -> Cement,0.055555
+2023-01-01,2023,annual,Local Excise -> Electrical Energy,0.12285
+2023-01-01,2023,annual,Local Excise ->Coal,0.034981
+2023-01-01,2023,annual,Mineral Royalty,6.341681
+2023-01-01,2023,annual,Pay As You Earn,2.915467
+2023-01-01,2023,annual,Presumptive Tax,2e-06
+2023-01-01,2023,annual,Property Transfer Tax,0.012651
+2023-01-01,2023,annual,Rental Tax,0.005362
+2023-01-01,2023,annual,Tourism Levy,0.000133
+2023-01-01,2023,annual,Turnover Tax,0.000322
+2023-01-01,2023,annual,Value Added Tax,3.024469
+2023-01-01,2023,annual,Withholding Tax,1.041022
+2023-01-01,2023,annual,Withholding on Value Added Tax,4.428599
+2023-01-01,2023,monthly,Income Tax,0.693719
+2023-01-01,2023,monthly,Local Excise -> Cement,0.003629
+2023-01-01,2023,monthly,Local Excise -> Electrical Energy,0.010948
+2023-01-01,2023,monthly,Local Excise ->Coal,0.00301
+2023-01-01,2023,monthly,Mineral Royalty,0.625201
+2023-01-01,2023,monthly,Pay As You Earn,0.329087
+2023-01-01,2023,monthly,Property Transfer Tax,0.000173
+2023-01-01,2023,monthly,Tourism Levy,1.2e-05
+2023-01-01,2023,monthly,Turnover Tax,9.2e-05
+2023-01-01,2023,monthly,Value Added Tax,0.089682
+2023-01-01,2023,monthly,Withholding Tax,0.140621
+2023-01-01,2023,monthly,Withholding on Value Added Tax,0.639038
+2023-02-01,2023,monthly,Income Tax,0.140626
+2023-02-01,2023,monthly,Local Excise -> Cement,0.004195
+2023-02-01,2023,monthly,Local Excise -> Electrical Energy,0.009176
+2023-02-01,2023,monthly,Local Excise ->Coal,0.002469
+2023-02-01,2023,monthly,Mineral Royalty,0.623349
+2023-02-01,2023,monthly,Pay As You Earn,0.23904
+2023-02-01,2023,monthly,Property Transfer Tax,2.4e-05
+2023-02-01,2023,monthly,Rental Tax,0.000157
+2023-02-01,2023,monthly,Tourism Levy,1.1e-05
+2023-02-01,2023,monthly,Turnover Tax,1.9e-05
+2023-02-01,2023,monthly,Value Added Tax,0.060869
+2023-02-01,2023,monthly,Withholding Tax,0.042387
+2023-02-01,2023,monthly,Withholding on Value Added Tax,0.577878
+2023-03-01,2023,monthly,Income Tax,0.152056
+2023-03-01,2023,monthly,Local Excise -> Cement,0.004294
+2023-03-01,2023,monthly,Local Excise -> Electrical Energy,0.022371
+2023-03-01,2023,monthly,Local Excise ->Coal,0.00543
+2023-03-01,2023,monthly,Mineral Royalty,0.732301
+2023-03-01,2023,monthly,Pay As You Earn,0.314135
+2023-03-01,2023,monthly,Property Transfer Tax,0.004281
+2023-03-01,2023,monthly,Rental Tax,0.0006
+2023-03-01,2023,monthly,Tourism Levy,8e-06
+2023-03-01,2023,monthly,Turnover Tax,3e-05
+2023-03-01,2023,monthly,Value Added Tax,1.447522
+2023-03-01,2023,monthly,Withholding Tax,0.1529
+2023-03-01,2023,monthly,Withholding on Value Added Tax,0.743534
+2023-04-01,2023,monthly,Income Tax,1.383725
+2023-04-01,2023,monthly,Local Excise -> Cement,0.003523
+2023-04-01,2023,monthly,Local Excise -> Electrical Energy,0.00052
+2023-04-01,2023,monthly,Local Excise ->Coal,0.001053
+2023-04-01,2023,monthly,Mineral Royalty,0.579635
+2023-04-01,2023,monthly,Pay As You Earn,0.224104
+2023-04-01,2023,monthly,Property Transfer Tax,1.2e-05
+2023-04-01,2023,monthly,Rental Tax,0.000157
+2023-04-01,2023,monthly,Tourism Levy,1e-05
+2023-04-01,2023,monthly,Turnover Tax,2.5e-05
+2023-04-01,2023,monthly,Value Added Tax,0.026807
+2023-04-01,2023,monthly,Withholding Tax,0.078574
+2023-04-01,2023,monthly,Withholding on Value Added Tax,0.657435
+2023-05-01,2023,monthly,Income Tax,0.22173
+2023-05-01,2023,monthly,Local Excise -> Cement,0.004175
+2023-05-01,2023,monthly,Local Excise -> Electrical Energy,0.009563
+2023-05-01,2023,monthly,Local Excise ->Coal,0.002571
+2023-05-01,2023,monthly,Mineral Royalty,0.512748
+2023-05-01,2023,monthly,Pay As You Earn,0.291162
+2023-05-01,2023,monthly,Rental Tax,0.000318
+2023-05-01,2023,monthly,Tourism Levy,1.2e-05
+2023-05-01,2023,monthly,Turnover Tax,2.7e-05
+2023-05-01,2023,monthly,Value Added Tax,0.061676
+2023-05-01,2023,monthly,Withholding Tax,0.126269
+2023-05-01,2023,monthly,Withholding on Value Added Tax,0.915564
+2023-06-01,2023,monthly,Income Tax,0.791525
+2023-06-01,2023,monthly,Local Excise -> Cement,0.005615
+2023-06-01,2023,monthly,Local Excise -> Electrical Energy,0.012282
+2023-06-01,2023,monthly,Local Excise ->Coal,0.002516
+2023-06-01,2023,monthly,Mineral Royalty,0.655082
+2023-06-01,2023,monthly,Pay As You Earn,0.474109
+2023-06-01,2023,monthly,Property Transfer Tax,2.6e-05
+2023-06-01,2023,monthly,Rental Tax,0.00084
+2023-06-01,2023,monthly,Tourism Levy,1.2e-05
+2023-06-01,2023,monthly,Turnover Tax,3.2e-05
+2023-06-01,2023,monthly,Value Added Tax,0.25539
+2023-06-01,2023,monthly,Withholding Tax,0.050449
+2023-06-01,2023,monthly,Withholding on Value Added Tax,0.729929
+2023-07-01,2023,monthly,Artisanal Small Scale Mining,4e-06
+2023-07-01,2023,monthly,Income Tax,0.732818
+2023-07-01,2023,monthly,Local Excise -> Cement,0.005797
+2023-07-01,2023,monthly,Local Excise -> Electrical Energy,0.010533
+2023-07-01,2023,monthly,Local Excise ->Coal,0.00269
+2023-07-01,2023,monthly,Mineral Royalty,0.629702
+2023-07-01,2023,monthly,Pay As You Earn,0.220622
+2023-07-01,2023,monthly,Property Transfer Tax,8.6e-05
+2023-07-01,2023,monthly,Rental Tax,0.000268
+2023-07-01,2023,monthly,Tourism Levy,1.3e-05
+2023-07-01,2023,monthly,Turnover Tax,2.1e-05
+2023-07-01,2023,monthly,Value Added Tax,0.143927
+2023-07-01,2023,monthly,Withholding Tax,0.138388
+2023-07-01,2023,monthly,Withholding on Value Added Tax,0.724352
+2023-08-01,2023,monthly,Artisanal Small Scale Mining,5e-06
+2023-08-01,2023,monthly,Income Tax,0.150895
+2023-08-01,2023,monthly,Local Excise -> Cement,0.005519
+2023-08-01,2023,monthly,Local Excise -> Electrical Energy,0.011592
+2023-08-01,2023,monthly,Local Excise ->Coal,0.002925
+2023-08-01,2023,monthly,Mineral Royalty,0.690363
+2023-08-01,2023,monthly,Pay As You Earn,0.320053
+2023-08-01,2023,monthly,Property Transfer Tax,0.004517
+2023-08-01,2023,monthly,Rental Tax,0.000436
+2023-08-01,2023,monthly,Tourism Levy,1.4e-05
+2023-08-01,2023,monthly,Turnover Tax,4.8e-05
+2023-08-01,2023,monthly,Value Added Tax,0.215565
+2023-08-01,2023,monthly,Withholding Tax,0.071672
+2023-08-01,2023,monthly,Withholding on Value Added Tax,1.031656
+2023-09-01,2023,monthly,Artisanal Small Scale Mining,0.000256
+2023-09-01,2023,monthly,Income Tax,0.083137
+2023-09-01,2023,monthly,Local Excise -> Cement,0.006648
+2023-09-01,2023,monthly,Local Excise -> Electrical Energy,0.00969
+2023-09-01,2023,monthly,Local Excise ->Coal,0.003963
+2023-09-01,2023,monthly,Mineral Royalty,0.758493
+2023-09-01,2023,monthly,Pay As You Earn,0.555737
+2023-09-01,2023,monthly,Property Transfer Tax,0.000175
+2023-09-01,2023,monthly,Rental Tax,0.00084
+2023-09-01,2023,monthly,Tourism Levy,1.2e-05
+2023-09-01,2023,monthly,Turnover Tax,2.2e-05
+2023-09-01,2023,monthly,Value Added Tax,0.151464
+2023-09-01,2023,monthly,Withholding Tax,0.06971
+2023-09-01,2023,monthly,Withholding on Value Added Tax,0.503861
+2023-10-01,2023,monthly,Artisanal Small Scale Mining,0.000411
+2023-10-01,2023,monthly,Income Tax,0.799099
+2023-10-01,2023,monthly,Local Excise -> Cement,0.006137
+2023-10-01,2023,monthly,Local Excise -> Electrical Energy,0.009564
+2023-10-01,2023,monthly,Local Excise ->Coal,0.003086
+2023-10-01,2023,monthly,Mineral Royalty,0.510785
+2023-10-01,2023,monthly,Pay As You Earn,0.218696
+2023-10-01,2023,monthly,Property Transfer Tax,0.002199
+2023-10-01,2023,monthly,Rental Tax,0.000599
+2023-10-01,2023,monthly,Tourism Levy,1.5e-05
+2023-10-01,2023,monthly,Turnover Tax,1.6e-05
+2023-10-01,2023,monthly,Value Added Tax,0.377732
+2023-10-01,2023,monthly,Withholding Tax,0.084773
+2023-10-01,2023,monthly,Withholding on Value Added Tax,0.438472
+2023-11-01,2023,monthly,Artisanal Small Scale Mining,0.000166
+2023-11-01,2023,monthly,Income Tax,0.08869
+2023-11-01,2023,monthly,Local Excise -> Cement,0.006363
+2023-11-01,2023,monthly,Local Excise -> Electrical Energy,0.013989
+2023-11-01,2023,monthly,Local Excise ->Coal,0.003428
+2023-11-01,2023,monthly,Mineral Royalty,0.619677
+2023-11-01,2023,monthly,Pay As You Earn,0.260452
+2023-11-01,2023,monthly,Presumptive Tax,1e-06
+2023-11-01,2023,monthly,Property Transfer Tax,0.001365
+2023-11-01,2023,monthly,Rental Tax,0.000414
+2023-11-01,2023,monthly,Tourism Levy,1.4e-05
+2023-11-01,2023,monthly,Turnover Tax,4.8e-05
+2023-11-01,2023,monthly,Value Added Tax,0.167225
+2023-11-01,2023,monthly,Withholding Tax,0.176279
+2023-11-01,2023,monthly,Withholding on Value Added Tax,0.506041
+2023-12-01,2023,monthly,Artisanal Small Scale Mining,0.000177
+2023-12-01,2023,monthly,Income Tax,0.042185
+2023-12-01,2023,monthly,Local Excise -> Cement,0.0058
+2023-12-01,2023,monthly,Local Excise -> Electrical Energy,0.013616
+2023-12-01,2023,monthly,Local Excise ->Coal,0.00485
+2023-12-01,2023,monthly,Mineral Royalty,0.617825
+2023-12-01,2023,monthly,Pay As You Earn,0.279283
+2023-12-01,2023,monthly,Property Transfer Tax,7.5e-05
+2023-12-01,2023,monthly,Rental Tax,0.000732
+2023-12-01,2023,monthly,Tourism Levy,1.3e-05
+2023-12-01,2023,monthly,Turnover Tax,7.2e-05
+2023-12-01,2023,monthly,Value Added Tax,0.190816
+2023-12-01,2023,monthly,Withholding Tax,0.10737
+2023-12-01,2023,monthly,Withholding on Value Added Tax,0.726553

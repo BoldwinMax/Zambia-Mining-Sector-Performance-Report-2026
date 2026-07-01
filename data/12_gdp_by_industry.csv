@@ -1,0 +1,81 @@
+year,date,industry,gdp_zmw_millions_constant2010
+2021,2021-12-01,"Agriculture, forestry and fishing",11086
+2022,2022-12-01,"Agriculture, forestry and fishing",9909
+2023,2023-12-01,"Agriculture, forestry and fishing",7882
+2024,2024-12-01,"Agriculture, forestry and fishing",7155
+2021,2021-12-01,Mining and quarrying,14587
+2022,2022-12-01,Mining and quarrying,14043
+2023,2023-12-01,Mining and quarrying,13553
+2024,2024-12-01,Mining and quarrying,14750
+2021,2021-12-01,Manufacturing,13193
+2022,2022-12-01,Manufacturing,13814
+2023,2023-12-01,Manufacturing,14440
+2024,2024-12-01,Manufacturing,14777
+2021,2021-12-01,Electricity supply,2624
+2022,2022-12-01,Electricity supply,2872
+2023,2023-12-01,Electricity supply,2868
+2024,2024-12-01,Electricity supply,2040
+2021,2021-12-01,Water supply,357
+2022,2022-12-01,Water supply,380
+2023,2023-12-01,Water supply,389
+2024,2024-12-01,Water supply,341
+2021,2021-12-01,Construction,15614
+2022,2022-12-01,Construction,14234
+2023,2023-12-01,Construction,14488
+2024,2024-12-01,Construction,15439
+2021,2021-12-01,Wholesale and retail trade,26713
+2022,2022-12-01,Wholesale and retail trade,27045
+2023,2023-12-01,Wholesale and retail trade,27188
+2024,2024-12-01,Wholesale and retail trade,26946
+2021,2021-12-01,Transportation and storage,5986
+2022,2022-12-01,Transportation and storage,7687
+2023,2023-12-01,Transportation and storage,8304
+2024,2024-12-01,Transportation and storage,8672
+2021,2021-12-01,Accommodation and food service,1670
+2022,2022-12-01,Accommodation and food service,2918
+2023,2023-12-01,Accommodation and food service,4518
+2024,2024-12-01,Accommodation and food service,5022
+2021,2021-12-01,Information and communication,10019
+2022,2022-12-01,Information and communication,14682
+2023,2023-12-01,Information and communication,17013
+2024,2024-12-01,Information and communication,19967
+2021,2021-12-01,Financial and insurance activities,7774
+2022,2022-12-01,Financial and insurance activities,7630
+2023,2023-12-01,Financial and insurance activities,9379
+2024,2024-12-01,Financial and insurance activities,10349
+2021,2021-12-01,Real estate activities,5226
+2022,2022-12-01,Real estate activities,5373
+2023,2023-12-01,Real estate activities,5399
+2024,2024-12-01,Real estate activities,5557
+2021,2021-12-01,Professional and technical activities,2747
+2022,2022-12-01,Professional and technical activities,2713
+2023,2023-12-01,Professional and technical activities,3256
+2024,2024-12-01,Professional and technical activities,3446
+2021,2021-12-01,Administrative and support services,1893
+2022,2022-12-01,Administrative and support services,1716
+2023,2023-12-01,Administrative and support services,1875
+2024,2024-12-01,Administrative and support services,1427
+2021,2021-12-01,Public administration and defense,6877
+2022,2022-12-01,Public administration and defense,7146
+2023,2023-12-01,Public administration and defense,7294
+2024,2024-12-01,Public administration and defense,7988
+2021,2021-12-01,Education,8870
+2022,2022-12-01,Education,10699
+2023,2023-12-01,Education,11916
+2024,2024-12-01,Education,12140
+2021,2021-12-01,Human health and social work,2632
+2022,2022-12-01,Human health and social work,2523
+2023,2023-12-01,Human health and social work,3210
+2024,2024-12-01,Human health and social work,3441
+2021,2021-12-01,"Arts, entertainment and recreation",207
+2022,2022-12-01,"Arts, entertainment and recreation",335
+2023,2023-12-01,"Arts, entertainment and recreation",383
+2024,2024-12-01,"Arts, entertainment and recreation",442
+2021,2021-12-01,Other service activities,1170
+2022,2022-12-01,Other service activities,1063
+2023,2023-12-01,Other service activities,1090
+2024,2024-12-01,Other service activities,1044
+2021,2021-12-01,GDP at Purchasers Prices,146344
+2022,2022-12-01,GDP at Purchasers Prices,153970
+2023,2023-12-01,GDP at Purchasers Prices,162235
+2024,2024-12-01,GDP at Purchasers Prices,168795
