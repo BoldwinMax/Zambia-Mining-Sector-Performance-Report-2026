@@ -1,6 +1,6 @@
 # Zambia Mining Sector Performance Report 2026
 
-A Power BI analytical report examining Zambia's mining sector across six dimensions - production, revenue, fiscal contribution, macroeconomic linkages, energy constraints, and workforce — using verified data from ZEITI, ZamStats, Bank of Zambia, and the World Bank.
+A Power BI analytical report examining Zambia's mining sector across six dimensions - production, revenue, fiscal contribution, macroeconomic linkages, energy constraints, and workforce - using verified data from ZEITI, ZamStats, Bank of Zambia, and the World Bank.
 
 ## The verdict
 
@@ -8,13 +8,13 @@ A Power BI analytical report examining Zambia's mining sector across six dimensi
 
 ## Report structure
 
-- **Sector Overview** — KPI cards, revenue trend, top royalty payers, licence pipeline, copper export dominance
-- **Production** — Mine locations map, copper output by company, monthly production trend, mineral mix
-- **Revenue** — Revenue by tax type, company payments to government, payments to agencies, monthly royalty trend
-- **Macro Linkages** — LME copper price, FX reserves, ZMW/USD exchange rate, copper exports, mining % of GDP
-- **Energy & Scenarios** — ZESCO actual mine loads, mine energy consumption, electricity demand forecast 2025–2031
-- **Workforce** — Total employment trend, women in mining, EPF contributions
-- **Summary** — Verdict, key findings, data sources, constraints, author
+- **Sector Overview** - KPI cards, revenue trend, top royalty payers, licence pipeline, copper export dominance
+- **Production** - Mine locations map, copper output by company, monthly production trend, mineral mix
+- **Revenue** - Revenue by tax type, company payments to government, payments to agencies, monthly royalty trend
+- **Macro Linkages** - LME copper price, FX reserves, ZMW/USD exchange rate, copper exports, mining % of GDP
+- **Energy & Scenarios** - ZESCO actual mine loads, mine energy consumption, electricity demand forecast 2025–2031
+- **Workforce** - Total employment trend, women in mining, EPF contributions
+- **Summary** - Verdict, key findings, data sources, constraints, author
 
 ## Live report
 
@@ -50,7 +50,7 @@ A Power BI analytical report examining Zambia's mining sector across six dimensi
 - Copper production hit a record 822,000 tonnes in 2024 - up from 737,000 in 2023
 - FX reserves nearly doubled from USD 3.2B (Jan 2024) to USD 6.2B (Mar 2026)
 - Kwacha appreciated 32% against the dollar between December 2024 and May 2026
-- Mining directly employs 90,075 workers (2023) — direct employees of ZEITI-reporting companies
+- Mining directly employs 90,075 workers (2023) - direct employees of ZEITI-reporting companies
 - Mine energy consumption dropped 10.6% in 2024 due to the Kariba reservoir crisis
 - Mineral royalty and income tax account for over 60% of mining revenue to government
 
@@ -69,7 +69,7 @@ A Power BI analytical report examining Zambia's mining sector across six dimensi
 
 - Company-level production data available to 2023 only (ZEITI portal)
 - Mining % of GDP available from 2021 only (ZamStats)
-- FX reserves monthly data available from January 2024 — annual figures sourced from World Bank WDI for 2000–2023
+- FX reserves monthly data available from January 2024 - annual figures sourced from World Bank WDI for 2000–2023
 - ASM production data unavailable from ZEITI portal
 - Map visual requires Azure Maps — pending organisational admin approval
 
@@ -93,6 +93,7 @@ Requires Power BI Desktop (free download from Microsoft). Open the `.pbix` file 
 
 **Boldwin Mweemba**
 Data Analyst ·  Lusaka, Zambia
-MSc mathematical sciences 
-GitHub: [BoldwinMax](https://github.com/BoldwinMax) · LinkedIn: [linkedin.com/in/boldwin-mweemba](https://linkedin.com/in/boldwin-mweemba)
-July 2026
+-MSc mathematical sciences 
+-GitHub: [BoldwinMax](https://github.com/BoldwinMax) ·
+-LinkedIn: [linkedin.com/in/boldwin-mweemba](https://linkedin.com/in/boldwin-mweemba)
+-July 2026
