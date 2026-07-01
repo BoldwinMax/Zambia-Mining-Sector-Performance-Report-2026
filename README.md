@@ -90,9 +90,8 @@ Requires Power BI Desktop (free download from Microsoft). Open the `.pbix` file 
 | [Electoral Uncertainty and Exchange Rate Dynamics in Zambia](https://github.com/BoldwinMax/Electoral-Uncertainty-and-Exchange-Rate-Dynamics-in-Zambia) | Event-study analysis of ZMW/USD responses to Zambian elections 2006–2021 |
 
 ## Author
-
-**Boldwin Mweemba**  Data Analyst · Lusaka, Zambia
-MSc Mathematical Sciences 
-GitHub: BoldwinMax
-LinkedIn: linkedin.com/in/boldwin-mweemba
+**Boldwin Mweemba**
+Data Analyst ·  Lusaka, Zambia
+MSc mathematical sciences 
+GitHub: [BoldwinMax](https://github.com/BoldwinMax) · LinkedIn: [linkedin.com/in/boldwin-mweemba](https://linkedin.com/in/boldwin-mweemba)
 July 2026
